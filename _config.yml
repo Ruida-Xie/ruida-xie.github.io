@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ruida Xie"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ruida Xie"
 description              : &description "personal description"
 url                      : https://ruida-xie.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  Research        :"http://www.traplan.xyz/"
 
 # Reading Files
 include:
