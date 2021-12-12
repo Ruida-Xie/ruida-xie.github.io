@@ -8,15 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 # Research Interests
-## Asteroid resource identification
-## Low-thrust trajectory optimisation
-### Direct and indirect low-thrust trajectory optimisation
-### Machine learning low-thrust transfer cost estimation
-
-
-
-
+* Artificial Intelligence for space mission design and optimisation
+* Space Resource Utilization
+* Off-Earth Mining
+* Asteroid resources identification and modelling
+* Low-thrust trajectory optimisation, direct/indirect/machine learning based approaches
+* Multi-target mission design and optimisation
+* Remote sensing 
 
 Education
 ======
