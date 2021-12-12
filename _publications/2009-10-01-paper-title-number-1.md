@@ -1,7 +1,7 @@
 ---
 title: "Target evaluation for near earth asteroid long-term mining missions"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 
 excerpt: 
 date: 2021-04-01
 venue: 'Journal 1'
