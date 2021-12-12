@@ -11,12 +11,13 @@ redirect_from:
 
 # Research Interests
 * Artificial Intelligence for space mission design and optimisation
+* Off-Earth Mining, Moon-Asteroids-Mars
 * Space Resource Utilization
-* Off-Earth Mining
 * Asteroid resources identification and modelling
 * Low-thrust trajectory optimisation, direct/indirect/machine learning based approaches
 * Multi-target mission design and optimisation
 * Remote sensing 
+* Guidiance, Navigation and Control System (GNC)
 
 Education
 ======
