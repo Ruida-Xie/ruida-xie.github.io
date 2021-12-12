@@ -25,6 +25,15 @@ Education
 * M.Eng. in Harbin Engineering University, 2017
 * Ph.D, University of New South Wales, 2022 (expected)
 
+# Conferences
+* 2022.03 "Low-thrust Accessibility Evaluation for Near-Earth Asteroids", 2022 IEEE Aerospace conference, Presenter
+* 2022.01 "A framework for campaign level asteroid mining pre-feasibility study", 2022 AIAA SciTech Forum and Exposition, Presenter
+* 2021.11 "11th Global Trajectory Optimization Competition（GTOC 11)", Team Leader.
+* 2021.08 "Feasible low-thrust trajectory identification via a deep neural network classifier", 2021 AAS/AIAA Astrodynamics Specialist Conference, Presenter
+* 2021.08 "Search and evaluation of near-earth asteroid long term mining missions",43rd COSPAR Scientific Assembly, Presenter
+* 2019.11 Off-Earth Mining Forum 2019 (OEMF2019), Presenter/poster
+* 2019.09 "Long stay-time mission opportunities’ search for NEAs", 19TH Australian Space Research Conference, Presenter
+
 Publications
 ======
 * Xie, R. and Dempster, A.G., 2022. Low-thrust Accessibility Evaluation for Near-Earth Asteroids. IEEE Aerospace Conference.(Accepted)
