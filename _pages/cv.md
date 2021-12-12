@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 # Research Interests
-Space mission design and optimisation. Trajectory 
+## Space mission design and optimisation. 
 
 
 
