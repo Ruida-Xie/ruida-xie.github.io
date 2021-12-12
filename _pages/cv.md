@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 # Research Interests
-## Space mission design and optimisation. 
+## Asteroid resource identification
+## Low-thrust trajectory optimisation
+### Direct and indirect low-thrust trajectory optimisation
+### Machine learning low-thrust transfer cost estimation
+
 
 
 
