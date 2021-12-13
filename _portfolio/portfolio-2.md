@@ -1,5 +1,5 @@
 ---
-title: "Ongoing long stay-time roundtrip NEA mission opportunity search"
+title: "Ongoing search for long stay-time roundtrip NEA mission opportunities"
 excerpt: "This project is to develop rapid search technique for impulsive/low-thrust roundtrip NEA robotic missions"
 collection: portfolio
 ---
@@ -12,6 +12,9 @@ All the calculation is performed High Performance Computing system. Approx. 2 bi
 Current the search technique is well developed. The data will be updated regularly. 
 
 The search results can be visualised here. Note the loading will take 30 seconds to minutes. The loading issue will be solved ... some time... [Round-trip impulsive Pork Chop Plots](http://www.traplan.xyz/data.html)
+![](/images/project2-2.PNG "Impulsive")
+
+![](/images/project2-2.PNG "Low-thrust")
 
 ## Related Publications
 * Xie, R. and Dempster, A.G., 2022. Low-thrust Accessibility Evaluation for Near-Earth Asteroids. IEEE Aerospace Conference.(Accepted)
