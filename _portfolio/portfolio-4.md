@@ -10,6 +10,7 @@ collection: portfolio
 ## Current Status
 As the solo player, I started the work 2 weeks before the deadline, but managed to complete the work. Unfotunately, I understand one of the constraint wrong, which leads to a final rank of 17th. My future corrections and publications of this part of work will be updated here.
 
+The figure is from GTOC11 problem statement file:
 ![Dyson Ring](/images/project4.PNG "Dyson Ring")
 
 
