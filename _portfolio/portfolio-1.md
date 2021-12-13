@@ -15,4 +15,4 @@ The web site can be visited here. [Asteroids Visualisation](http://www.traplan.x
 
 
 
-![Data and Control Panel](/images/project1-1.jpg)
+![Data and Control Panel](/images/project1-1.PNG)
