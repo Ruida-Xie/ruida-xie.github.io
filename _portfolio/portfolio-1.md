@@ -13,6 +13,5 @@ Currently, all available asteroids listed in NASA small bodies database are adde
 The web site can be visited here. [Asteroids Visualisation](http://www.traplan.xyz/)
 
 
-
-
 ![Data and Control Panel](/images/project1-1.PNG)
+![Data and Control Panel](/images/project1-2.PNG)
