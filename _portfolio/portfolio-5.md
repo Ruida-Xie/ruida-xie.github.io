@@ -1,6 +1,6 @@
 ---
 title: "Campaign-level off-Earth mining design and optimisation"
-excerpt: "This project is for the GTOC11 held in Nov 2021."
+excerpt: "This project is to solve the problem of large-scale off-Earth mining. Off-Earth mining is an economic activity and requires detailed prefeasibility study. The work covers target selection, trajectory generation, mission opportunity search, economic analyses and campaign scheduling and optimization. "
 collection: portfolio
 ---
 
