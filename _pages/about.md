@@ -9,4 +9,4 @@ redirect_from:
 ---
 Welcome! I'm a PhD candidate studying at Australian Center for Space Engineering Research ([ACSER](https://www.acser.unsw.edu.au/)), University of New South Wales, Sydney. I'm expecting to graduate in mid-2022. Generally, my current research focuses on two fields: 1) Off-Earth mining and Space Resources Utilisation  2) Artificial Intelligence in space mission design and optimisation. 3) Trajectory optimisation. My past experience includes: 1) GNC algorithms 2) High accuracy attitude determination for agile remote sensing satelite 3) Star sensor and gyroscope online/offline calibration, etc.
 
-This site is under construction. I'll update my intro, experiences regularly. I'll also release source code and my research date here. 
+This site is under construction. I'll update my intro, experiences regularly. I'll also release source code and my research date here.   asa
