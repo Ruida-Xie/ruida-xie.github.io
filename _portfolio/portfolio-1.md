@@ -15,4 +15,4 @@ The web site can be visited heresa
 
 
 
-![Data and Control Panel](project1-1.jpg)
+![Data and Control Panel](/images/project1-1.jpg)
