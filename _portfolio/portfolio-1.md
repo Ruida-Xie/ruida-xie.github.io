@@ -1,5 +1,5 @@
 ---
-title: "Asteroid Visualisation"
+title: "Web-based interactive 3D visualisation of asteroids"
 excerpt: "This project developed 3D visualisation of different groups of asteroids<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
