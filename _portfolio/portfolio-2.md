@@ -1,17 +1,20 @@
 ---
-title: "Web-based interactive 3D visualisation of asteroids"
-excerpt: "This project developed 3D visualisation of different groups of asteroids<br/><img src='/images/project1.PNG'>"
+title: "Ongoing long stay-time roundtrip NEA mission opportunity search"
+excerpt: "This project is to develop rapid search technique for impulsive/low-thrust roundtrip NEA robotic missions"
 collection: portfolio
 ---
 
-## Objective 
-The long-term goal of this project is to developed a web-based, data driven, 3-D interactive visualisation system tool to provide illustration of: 1) Major and small bodies' movements in the solar system 2) Off-Earth mining illustration.
+## Introduction 
+This project developed rapid search techniques for impulsive/low-thrust roundtrip NEA robotic mission opportunity search. The impulsive delta-V is calculated by solving Lambert Problem and using Keplerian Propagation. The low thrust propellant consumption is calculated based on the Sims-Flanagan Transcription (SFT), but is later replaced by the Deep Learning Techniques. 
 
-## Introduction
-Currently, all available asteroids listed in NASA small bodies database are added into the system. The movements of these bodies are based on two-body system dynamics. You may use the "Data and Control" panel to display asteroids of interests - Or you may use the "Asteroid Clusters" panel to display a particular group of asteroids. When playing with these control bars, you can observe some interesting movements, clusters, etc.
+All the calculation is performed High Performance Computing system. Approx. 2 billion impulsive trajectories were stored and 700 million low-thrust trajectories were recorded. See the data release page for more details
 
-The web site can be visited here. [Asteroids Visualisation](http://www.traplan.xyz/)
+Current the search technique is well developed. The data will be updated regularly. 
 
+The search results can be visualised here. Note the loading will take 30 seconds to minutes. The loading issue will be solved ... some time... [Round-trip impulsive Pork Chop Plots](http://www.traplan.xyz/data.html)
 
-![Data and Control Panel](/images/project1-1.PNG)
-![Data and Control Panel](/images/project1-2.PNG)
+## Related Publications
+* Xie, R. and Dempster, A.G., 2022. Low-thrust Accessibility Evaluation for Near-Earth Asteroids. IEEE Aerospace Conference.(Accepted)
+* Xie, R. and Dempster, A.G., 2021. Feasible low-thrust trajectory identification via a deep neural network classifier. 2021 AAS/AIAA Astrodynamics Specialist Conference
+* Xie, R. and Dempster, A.G., 2021. An on-line deep learning framework for low-thrust trajectory optimisation. Aerospace Science and Technology, 118, p.107002.
+* Xie, R., Bennett, N.J. and Dempster, A.G., 2021. Target evaluation for near earth asteroid long-term mining missions. Acta Astronautica, 181, pp.249-270.
