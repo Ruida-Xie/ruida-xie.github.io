@@ -12,9 +12,9 @@ All the calculation is performed High Performance Computing system. Approx. 2 bi
 Current the search technique is well developed. The data will be updated regularly. 
 
 The search results can be visualised here. Note the loading will take 30 seconds to minutes. The loading issue will be solved ... some time... [Round-trip impulsive Pork Chop Plots](http://www.traplan.xyz/data.html)
-![12](/images/project2-2.PNG "Impulsive")
+![12](/images/project2-2.png "Impulsive")
 
-![12](/images/project2-2.PNG "Low-thrust")
+![12](/images/project2-2.png "Low-thrust")
 
 ## Related Publications
 * Xie, R. and Dempster, A.G., 2022. Low-thrust Accessibility Evaluation for Near-Earth Asteroids. IEEE Aerospace Conference.(Accepted)
