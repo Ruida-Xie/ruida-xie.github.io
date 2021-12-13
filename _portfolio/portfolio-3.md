@@ -18,7 +18,7 @@ See the data release page to access the low thrust transfer data. You may use th
 
 Current the DNN-based approximation technique and workflow are well developed. But we are seeking further performance improvements
 
-![DNN approximation workflow](/images/project1.PNG)
+![DNN approximation workflow](/images/project3.PNG)
 
 ## Related Publications
 * Xie, R. and Dempster, A.G., 2022. Low-thrust Accessibility Evaluation for Near-Earth Asteroids. IEEE Aerospace Conference.(Accepted)
