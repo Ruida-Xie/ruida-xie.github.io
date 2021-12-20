@@ -1,7 +1,8 @@
 ---
 title: "Teaching experience 2"
-
+collection: teaching
 permalink: /teaching/2015-spring-teaching-0
+
 
 ---
 
