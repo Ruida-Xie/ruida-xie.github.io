@@ -1,9 +1,9 @@
 ---
-title: "2 Billion Impulsive Trajectories"
+title: "Time optimal trajectories for GTOC 11"
 collection: teaching
 type: ".MAT format"
-permalink: /teaching/2014-spring-teaching-1
-venue: "SIZE: 8GB"
+permalink: /teaching/2014-spring-teaching-3
+venue: "SIZE: 15GB"
 date: 2020-01-01
 ---
 
