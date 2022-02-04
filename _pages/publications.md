@@ -20,4 +20,4 @@ author_profile: true
 * Xie, R. and Dempster, A.G., 2021. An on-line deep learning framework for low-thrust trajectory optimisation. Aerospace Science and Technology, 118, p.107002.
 * Xie, R., Bennett, N.J. and Dempster, A.G., 2021. Target evaluation for near earth asteroid long-term mining missions. Acta Astronautica, 181, pp.249-270.
 * ZHAO, L., XIE, R., LIU, Y. and HAO, Y., 2017. Offline calibration method of low frequency error of star sensor and gyroscope drift. Acta Aeronautica ET Astronautica Sinicaˈ, 38(5), pp.42-50.
-* Yuan, L., Ruida, X., Lin, Z. and Yong, H., 2016. Machine learning based on-orbit distortion calibration technique for large field-of-view star tracker. 红外与激光工程, 45(12), pp.1217004-1217004.
+* Liu, Y., Xie, R., Zhao, L. and Hao, Y., 2016. Machine learning based on-orbit distortion calibration technique for large field-of-view star tracker. Infrared and Laser Engineering, 45(12), p.1217004.
