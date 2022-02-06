@@ -14,7 +14,6 @@ author_profile: true
 
 * Xie, R. and Dempster, A.G., 2022. Low-thrust Accessibility Evaluation for Near-Earth Asteroids. IEEE Aerospace Conference.
 * Xie, R., Saydam, S. and Dempster, A., 2022. A framework for campaign level asteroid mining pre-feasibility study. In AIAA SCITECH 2022 Forum (p. 2583).
-* Xie, R., Bennett, N.J. and Dempster, A.G., 2021. Target evaluation for near earth asteroid long-term mining missions. Acta Astronautica, 181, pp.249-270.
 * Bennett N.J, Xie, R. and Dempster, A.G., 2022. The Moon and NEAs as sources of cislunar propellant; removing some constraints from a recent paper drives down lunar sourced propellant cost. Acta Astronautica, 190, pp.409-412. 
 * Xie, R. and Dempster, A.G., 2021. Feasible low-thrust trajectory identification via a deep neural network classifier. 2021 AAS/AIAA Astrodynamics Specialist Conference
 * Xie, R. and Dempster, A.G., 2021. An on-line deep learning framework for low-thrust trajectory optimisation. Aerospace Science and Technology, 118, p.107002.
