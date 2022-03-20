@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+# Preprints or Under Review
+* Xie, R. and Dempster, A.G., 2022. Feasible Low-thrust Trajectory Identification via a Deep Neural Network Classifier. arXiv preprint arXiv:2202.04962.
+* Xie, R. and Dempster, A.G., 2022. Multi-scale deep learning framework for low thrust transfer cost approximation. Under Review by Journal of Guidance, Control, and Dynamics.
+* Xie, R. and Dempster, A.G., 2022. Efficient low-thrust trajectory generation based on generative adversarial network 
+
+
+
+
 
 * Xie, R. and Dempster, A.G., 2022. Low-thrust Accessibility Evaluation for Near-Earth Asteroids. IEEE Aerospace Conference.
 * Xie, R., Saydam, S. and Dempster, A., 2022. A framework for campaign level asteroid mining pre-feasibility study. In AIAA SCITECH 2022 Forum (p. 2583).
