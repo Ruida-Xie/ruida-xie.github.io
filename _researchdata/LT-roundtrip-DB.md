@@ -3,7 +3,7 @@ title: "Low-thrust Roundtrip trajectories"
 collection: researchdata
 type: ".MAT format"
 permalink: /researchdata/LT-roundtrip-DB
-venue: "SIZE - 15 GB"
+venue: "Journals"
 date: 2021-10-01
 ---
 

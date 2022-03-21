@@ -3,7 +3,7 @@ title: "Time optimal trajectories for GTOC 11"
 collection: researchdata
 type: ".MAT format"
 permalink: /researchdata/GTOC11
-venue: "SIZE - 15GB"
+venue: "Journals"
 date: 2021-11-01
 ---
 
