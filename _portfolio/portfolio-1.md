@@ -2,7 +2,7 @@
 title: "Web-based interactive 3D visualisation of asteroids"
 excerpt: "This project developed 3D visualisation of different groups of asteroids"
 collection: portfolio
-date: 2018-09
+date: 2018-09-01
 ---
 
 ## Objective 

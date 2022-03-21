@@ -2,7 +2,7 @@
 title: "11th Global Trajectory Optimisation Competition"
 excerpt: "This project is for the GTOC11 held in Nov 2021."
 collection: portfolio
-date: 2021-11
+date: 2021-11-01
 ---
 
 ## Background

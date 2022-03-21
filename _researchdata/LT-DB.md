@@ -4,7 +4,7 @@ collection: researchdata
 type: ".MAT format"
 permalink: /researchdata/LT-DB
 venue: "Journals"
-date: 2021-03
+date: 2021-03-01
 ---
 
 This database stores randomly generated low-thrust(LT) trajectories between NEAs. This database can be used for training interesting machine learning models. For example, using both feasible LT samples and infeasible samples to build a DNN classification model to distinguish LT transfer feasibilities. This database is valuable – obtaining such database requires hundreds of thousands of cores hours of high-performance computing system.

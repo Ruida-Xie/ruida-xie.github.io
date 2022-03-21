@@ -4,7 +4,7 @@ collection: researchdata
 type: ".MAT format"
 permalink: /researchdata/2-billion
 venue: "Journals"
-date: 2020-01
+date: 2020-01-01
 ---
 
 This database stores nearly two billion impulsive round-trip trajectories to near Earth asteroids.  This database enables numerical approach for mission analysis.

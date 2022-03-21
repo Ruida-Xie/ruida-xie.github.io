@@ -4,7 +4,7 @@ collection: researchdata
 type: ".MAT format"
 permalink: /researchdata/LT-roundtrip-DB
 venue: "Journals"
-date: 2021-10
+date: 2021-10-01
 ---
 
 This database stores low-thrust roundtrip missions to NEAs. The generation of this database used our advanced deep learning low-thrust transfer cost approximation technique, which replace the conventional optimization process. The estimation of low thrust transfer cost is as fast as solving a Lambert problem. The search process is based on grid search.
