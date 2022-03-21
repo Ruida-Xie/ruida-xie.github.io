@@ -16,3 +16,6 @@ My past experience includes:
 * GNC algorithms 
 * High accuracy attitude determination for agile remote sensing satelite 
 * Star sensor and gyroscope online/offline calibration, etc.
+
+## Contact
+Contact Via: ruida.space@gmail.com
