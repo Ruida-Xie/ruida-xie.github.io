@@ -24,6 +24,7 @@ The visualization of this database can be found on http://www.traplan.xyz/data.h
 * No mid course maneuvers, gravity assists or continuous thrust options
 
 ## Database Sunmary
+
 | Item                     | Description|
 |-----------|-----------|
 | Recorded asteroid number | 6,371                                                                                                                                                             |
@@ -36,7 +37,12 @@ The visualization of this database can be found on http://www.traplan.xyz/data.h
 
 
 
-| Syntax      | Description |
+| Item      | Description |
 | ----------- | ----------- |
-| Precision for delta-V | 0.001 km/s |
-| Paragraph   | Departure date, outbound ToF, stay time, inbound ToF, Earth departure delta-V, asteroid arrival delta-V, asteroid departure delta-V, Earth arrival delta-V        |
+| Recorded asteroid number | 6,371                                                                                                                                                             |
+| Number of trajectories   | 1,835,835,340                                                                                                                                                     |
+| File Format              | .MAT                                                                                                                                                              |
+| File Size                | 8.14 GB                                                                                                                                                           |
+| Precision for delta-V    | 0.001 km/s                                                                                                                                                        |
+| Coloumns                 | Departure date, outbound ToF, stay time, inbound ToF, Earth departure delta-V, asteroid arrival delta-V, asteroid departure delta-V, Earth arrival delta-V |
+
