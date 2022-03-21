@@ -29,9 +29,9 @@ This database stores randomly generated low-thrust(LT) trajectories between NEAs
 | Mean   | 875.9                 | 1830.5            | 45.00                  |
 | Median | 883                   | 1732              | 41.65                  |
 
-![DB3-stats1](/images/DB2 DB3-stats1.png "DB3-stats1")
-![DB3-stats2](/images/DB2 DB3-stats2.png "DB3-stats2")
-![DB3-stats3](/images/DB2 DB3-stats3.png "DB3-stats3")
+![DB3-stats1](/images/DB3-stats1.png "DB3-stats1")
+![DB3-stats2](/images/DB3-stats2.png "DB3-stats2")
+![DB3-stats3](/images/DB3-stats3.png "DB3-stats3")
 
 ## Download Link
 The link will be released later. Contact: ruida.space@gmail.com
