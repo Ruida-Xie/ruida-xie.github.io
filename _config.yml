@@ -208,7 +208,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research111
   - scope:
       path: ""
       type: research111
