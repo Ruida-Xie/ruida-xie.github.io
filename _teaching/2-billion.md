@@ -24,8 +24,8 @@ The visualization of this database can be found on http://www.traplan.xyz/data.h
 * No mid course maneuvers, gravity assists or continuous thrust options
 
 ## Database Sunmary
-| Item                     | Description                                                                                                                                                       |
-|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Item                     | Description|
+|-----------|-----------|
 | Recorded asteroid number | 6,371                                                                                                                                                             |
 | Number of trajectories   | 1,835,835,340                                                                                                                                                     |
 | File Format              | .MAT                                                                                                                                                              |
