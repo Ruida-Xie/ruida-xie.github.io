@@ -2,6 +2,7 @@
 title: "Low-thrust transfer cost estimation based on Deep Learning"
 excerpt: "This project is using machine learning techiniques to etimate low-thrust transfer cost without performing the actual optimisation. This technique greatly reduces the computation time and the accuracy outperforms and analytical solution, these two features enable more complex mission designs."
 collection: portfolio
+date: 2020-05
 ---
 
 ## Highlights

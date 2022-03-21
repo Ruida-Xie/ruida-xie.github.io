@@ -2,7 +2,7 @@
 title: "Ongoing search for long stay-time roundtrip NEA mission opportunities"
 excerpt: "This project is to develop rapid search technique for impulsive/low-thrust roundtrip NEA robotic missions"
 collection: portfolio
-date: 2020-10-01
+date: 2019-07
 ---
 
 ## Introduction 
