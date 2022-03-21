@@ -23,19 +23,7 @@ The visualization of this database can be found on http://www.traplan.xyz/data.h
 * The total delta-V includes the Earth departure maneuver from a 400 km altitude circular parking orbit, the maneuver to match the NEA's velocity at arrival, the maneuver to depart the NEA and the maneuver to capture the elliptical orbit during Earth return.
 * No mid course maneuvers, gravity assists or continuous thrust options
 
-## Database Sunmary
-
-| Item                     | Description|
-|-----------|-----------|
-| Recorded asteroid number | 6,371                                                                                                                                                             |
-| Number of trajectories   | 1,835,835,340                                                                                                                                                     |
-| File Format              | .MAT                                                                                                                                                              |
-| File Size                | 8.14 GB                                                                                                                                                           |
-| Precision for delta-V    | 0.001 km/s                                                                                                                                                        |
-| Coloumns                 | Departure date, outbound ToF, stay time, inbound ToF, Earth departure delta-V, asteroid arrival delta-V, asteroid departure delta-V, Earth arrival delta-V |
-
-
-
+## Database Summary
 
 | Item      | Description |
 | ----------- | ----------- |
