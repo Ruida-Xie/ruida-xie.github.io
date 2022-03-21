@@ -1,8 +1,8 @@
 ---
 title: "Time optimal trajectories for GTOC 11"
-collection: teaching
+collection: researchdata
 type: ".MAT format"
-permalink: /teaching/GTOC11
+permalink: /researchdata/GTOC11
 venue: "SIZE - 15GB"
 date: 2021-11-01
 ---

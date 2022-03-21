@@ -1,8 +1,8 @@
 ---
 title: "Low-thrust Roundtrip trajectories"
-collection: teaching
+collection: researchdata
 type: ".MAT format"
-permalink: /teaching/LT-roundtrip-DB
+permalink: /researchdata/LT-roundtrip-DB
 venue: "SIZE - 15 GB"
 date: 2021-10-01
 ---

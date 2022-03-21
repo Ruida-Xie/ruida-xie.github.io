@@ -1,8 +1,8 @@
 ---
 title: "Low-thrust trajectories: For Deep Learning Model Construction"
-collection: teaching
+collection: researchdata
 type: ".MAT format"
-permalink: /teaching/LT-DB
+permalink: /researchdata/LT-DB
 venue: "SIZE - 3 GB"
 date: 2021-03-01
 ---
