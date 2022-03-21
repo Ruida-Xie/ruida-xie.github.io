@@ -12,10 +12,13 @@ author_profile: true
 {% include base_path %}
 
 
-## Preprints or Under Review
+## Preprints/Papers Under Review/Revisions
 * Xie, R. and Dempster, A.G., 2022. Feasible Low-thrust Trajectory Identification via a Deep Neural Network Classifier. arXiv preprint arXiv:2202.04962.
-* Xie, R. and Dempster, A.G., 2022. Multi-scale deep learning framework for low thrust transfer cost approximation. Under Review by Journal of Guidance, Control, and Dynamics.
-* Xie, R. and Dempster, A.G., 2022. Efficient low-thrust trajectory generation based on generative adversarial network 
+* Xie, R. and Dempster, A.G., 2022. Multi-scale deep learning framework for low thrust transfer cost approximation. 
+* Xie, R. and Dempster, A.G., 2022. Efficient low-thrust trajectory generation based on generative adversarial network. 
+* Xie, R., Saydam, S. and Dempster, A.G., 2022. Campaign-level long-term asteroid mining mission design and optimisation
+* Xie, R., Saydam, S. and Dempster, A.G., 2022. A Review of off- Earth mining mission architecture.
+* Xie, R., S. and Dempster, A.G., 2022. GTOC 11: Results from team ACSER
 
 ## Year 2022
 * Bennett, N.J., Xie, R. and Dempster, A.G., 2022. The Moon and NEAs as sources of cislunar propellant; removing some constraints from a recent paper drives down lunar sourced propellant cost. Acta Astronautica, 190, pp.409-412.
