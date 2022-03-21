@@ -1,8 +1,8 @@
 ---
 title: "2 Billion Impulsive Round-trip Trajectories"
-collection: teaching
+collection: research111
 type: ".MAT format"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /research111/2-billion
 venue: "SIZE - 8GB"
 date: 2020-01-01
 ---
