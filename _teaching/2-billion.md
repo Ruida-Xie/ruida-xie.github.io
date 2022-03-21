@@ -30,3 +30,5 @@ The visualization of this database can be found on http://www.traplan.xyz/data.h
 | Number of trajectories    | 1,835,835,340         |
 | File Format    | .MAT        |
 | File Size    | 8.14 GB        |
+| Precision for delta-V    | 0.001 km/s        |
+| Coloumn info    | c1-c8: Departure date, outbound ToF, stay time, inbound ToF, Earth departure delta-V, asteroid arrival delta-V, asteroid departure delta-V, Earth arrival delta-V      |
