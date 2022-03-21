@@ -22,7 +22,7 @@ The visualization of this database can be found on http://www.traplan.xyz/data.h
 | Coloumns                 | Departure date, outbound ToF, stay time, inbound ToF, Earth departure delta-V, asteroid arrival delta-V, asteroid departure delta-V, Earth arrival delta-V |
 
 
-![Statistics of the database](/images/DB1-screenshot.png "Statistics")
+![database screenshot](/images/DB1-screenshot.png "database screenshot")
 
 ## Statistics
 ![Statistics of the database](/images/DB1-2-billion-stats.png "Statistics")
