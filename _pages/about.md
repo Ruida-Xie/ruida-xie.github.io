@@ -22,7 +22,7 @@ Contact Via: ruida.space@gmail.com
 
 ## News
 **Current** Working on thesis
-** 5 Mar 2022** Presenting my work at IEEE Aerospace Conference!
-** 8 Jan 2022** Presenting my work at AIAA SciTech Forum!
-** 8 Nov 2021** I'm participating 11th Global Trajectory Optimisation Competition(GTOC11)
-** 7 Aug 2021** Presenting my work at AIAA/AAS Astrodynamics Specialist Conference!
+**5 Mar 2022** Presenting my work at IEEE Aerospace Conference!
+**8 Jan 2022** Presenting my work at AIAA SciTech Forum!
+**8 Nov 2021** I'm participating 11th Global Trajectory Optimisation Competition(GTOC11)!
+**7 Aug 2021** Presenting my work at AIAA/AAS Astrodynamics Specialist Conference!
