@@ -2,7 +2,7 @@
 title: "Low-thrust Roundtrip trajectories"
 collection: teaching
 type: ".MAT format"
-permalink: /teaching/2014-spring-teaching-2
+permalink: /teaching/LT-roundtrip-DB
 venue: "SIZE - 15 GB"
 date: 2021-10-01
 ---
@@ -15,10 +15,10 @@ This database stores low-thrust roundtrip missions to NEAs. The generation of th
 |----------------------------------|---------------------------------------------------------------------------------------|
 | Recorded asteroid number         | 24,149 NEAs were searched, 1,684 NEAs (7%) are confirmed to be round trip accessible  |
 | Number of roundtrip trajectories | 695,511,547                                                                           |
-| File Format                      | -                                                                                     |
-| File Size                        | -                                                                                     |
+| File Format                      | .MAT                                                                                     |
+| File Size                        | 30 GB                                                                                     |
 | Precision                        | double-precision floating-point                                                       |
-| Coloumns                         |                                                                                       |
+| Columns                         |                                                                                       |
 
 ## Statistics
 ![Statistics of the database](/images/DB2-stats.png "Statistics")
