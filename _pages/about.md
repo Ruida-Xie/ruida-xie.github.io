@@ -18,7 +18,7 @@ My past experience includes:
 * Star sensor and gyroscope online/offline calibration, etc.
 
 ## Contact
-Contact Via: ruida.space@gmail.com
+Contact via: ruida.space@gmail.com
 
 ## News
 * **Current** Working on thesis
