@@ -22,3 +22,11 @@ The visualization of this database can be found on http://www.traplan.xyz/data.h
 * Delta-V of round trips less than or equal to 12 km/s
 * The total delta-V includes the Earth departure maneuver from a 400 km altitude circular parking orbit, the maneuver to match the NEA's velocity at arrival, the maneuver to depart the NEA and the maneuver to capture the elliptical orbit during Earth return.
 * No mid course maneuvers, gravity assists or continuous thrust options
+
+## Database Sunmary
+| Syntax      | Description |
+| ----------- | ----------- |
+| Recorded asteroid number      | 6,371        |
+| Number of trajectories    | 1,835,835,340         |
+| File Format    | .MAT        |
+| File Size    | 8.14 GB        |
