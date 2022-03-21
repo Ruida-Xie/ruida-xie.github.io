@@ -14,7 +14,7 @@ The visualization of this database can be found on http://www.traplan.xyz/data.h
 
 | Item      | Description |
 | ----------- | ----------- |
-| Recorded asteroid number | 6,371                                                                                                                                                             |
+| Recorded asteroid number | 20,277 asteroid searched, 6,371 asteroids mission info stored                                                                                                        |
 | Number of trajectories   | 1,835,835,340                                                                                                                                                     |
 | File Format              | .MAT                                                                                                                                                              |
 | File Size                | 8.14 GB                                                                                                                                                           |
@@ -41,4 +41,4 @@ The visualization of this database can be found on http://www.traplan.xyz/data.h
 * No mid course maneuvers, gravity assists or continuous thrust options
 
 ## Download Link
-The link will be released later
+The link will be released later. Contact: ruida.space@gmail.com

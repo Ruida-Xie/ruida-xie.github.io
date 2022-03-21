@@ -37,5 +37,5 @@ This database stores low-thrust roundtrip missions to NEAs. The generation of th
 ![Search Scheme](/images/DB2 search-scheme.png "Search Scheme")
 
 ## Download Link
-The link will be released later
+The link will be released later. Contact: ruida.space@gmail.com
 

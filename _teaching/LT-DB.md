@@ -32,3 +32,6 @@ This database stores randomly generated low-thrust(LT) trajectories between NEAs
 ![DB3-stats1](/images/DB2 DB3-stats1.png "DB3-stats1")
 ![DB3-stats2](/images/DB2 DB3-stats2.png "DB3-stats2")
 ![DB3-stats3](/images/DB2 DB3-stats3.png "DB3-stats3")
+
+## Download Link
+The link will be released later. Contact: ruida.space@gmail.com
