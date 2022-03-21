@@ -38,5 +38,5 @@ The visualization of this database can be found on http://www.traplan.xyz/data.h
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Header      | Departure date, outbound ToF, stay time, inbound ToF, Earth departure delta-V, asteroid arrival delta-V, asteroid departure delta-V, Earth arrival delta-V       |
+| Paragraph   | Departure date, outbound ToF, stay time, inbound ToF, Earth departure delta-V, asteroid arrival delta-V, asteroid departure delta-V, Earth arrival delta-V        |
