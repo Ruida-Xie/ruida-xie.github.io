@@ -22,6 +22,7 @@ Contact via: ruida.space@gmail.com
 
 ## News
 * **Current** Working on thesis
+* **29 Mar 2022** Completed the 7-week "Getting Published" training webinars delivered by Dr. Jeffrey Robens from Nature Research Academies. Great experience!
 * **5 Mar 2022** Presenting my work at [IEEE Aerospace Conference](https://www.aeroconf.org/)!
 * **8 Jan 2022** Presenting my work at [AIAA SciTech Forum](https://www.aiaa.org/SciTech). Paper selected for AIAA journal consideration!
 * **8 Nov 2021** I'm participating 11th Global Trajectory Optimisation Competition([GTOC11](https://gtoc11.nudt.edu.cn/GTOC?page=home))!
