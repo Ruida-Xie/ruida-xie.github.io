@@ -1,5 +1,5 @@
 ---
-title: "Time optimal trajectories for GTOC 11"
+title: "Time optimal trajectories for Global Trajectory Optimization Competition 11"
 collection: researchdata
 type: ".MAT format"
 permalink: /researchdata/GTOC11
