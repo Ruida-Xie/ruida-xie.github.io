@@ -19,6 +19,7 @@ My past experience includes:
 
 ## News
 * **Current** Working on thesis
+* **29 Jun 2022** I am selected as one of the [Emerging Space Leaders](https://www.iafastro.org/news/the-iaf-is-proud-to-introduce-the-2022-iaf-emerging-space-leaders.html) by IAF. And I'll be attending 2022 IAC Paris. See you there!
 * **29 Mar 2022** Completed the 7-week "Getting Published" training workshops delivered by Dr. Jeffrey Robens from [Nature Research Academies](https://partnerships.nature.com/product/nature-research-academies/). Great experience!
 * **5 Mar 2022** Presenting my work at [IEEE Aerospace Conference](https://www.aeroconf.org/)!
 * **8 Jan 2022** Presenting my work at [AIAA SciTech Forum](https://www.aiaa.org/SciTech). Paper selected for AIAA journal consideration!
