@@ -20,6 +20,11 @@ author_profile: true
 * Xie, R., Saydam, S. and Dempster, A.G., 2022. A Review of off- Earth mining mission architecture.
 * Xie, R., S. and Dempster, A.G., 2022. GTOC 11: Results from team ACSER
 
+## Year 2023
+* Xie, R., Saydam, S., & Dempster, A. G. (2023). Low-thrust trajectory design for near-Earth asteroid supply delivery and resource transportation mission using high-power solar electric propulsion. Aerospace Science and Technology, 137, 108304.
+* Xie, R., Saydam, S., & Dempster, A. G. (2023). Ranking near-Earth objects for long-term multi-return mining missions. In 74th Int. Astronautical Congress IAC-23.
+* Xie, R., Saydam, S., & Dempster, A. G. (2023). A framework for near-Earth asteroid mining campaign design and analysis. In 74th Int. Astronautical Congress IAC-23.
+
 ## Year 2022
 * Bennett, N.J., Xie, R. and Dempster, A.G., 2022. The Moon and NEAs as sources of cislunar propellant; removing some constraints from a recent paper drives down lunar sourced propellant cost. Acta Astronautica, 190, pp.409-412.
 * Xie, R., Saydam, S. and Dempster, A., 2022. A framework for campaign level asteroid mining pre-feasibility study. In AIAA SCITECH 2022 Forum (p. 2583).
