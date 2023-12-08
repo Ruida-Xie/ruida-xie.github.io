@@ -12,7 +12,7 @@ The long-term goal of this project is to developed a web-based, data driven, 3-D
 ## Introduction
 Currently, all available asteroids listed in NASA small bodies database are added into the system. The movements of these bodies are based on two-body system dynamics. You may use the "Data and Control" panel to display asteroids of interests - Or you may use the "Asteroid Clusters" panel to display a particular group of asteroids. When playing with these control bars, you can observe some interesting movements, clusters, etc.
 
-The web site can be visited here. [Asteroids Visualisation](http://www.traplan.xyz/)
+The web site can be visited here. [Asteroids Visualisation](https://www.traplanX.com/)
 
 ![Data and Control Panel](/images/project1-1.PNG "Data and Control Panel")
 

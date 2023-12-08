@@ -12,7 +12,7 @@ All the calculation is performed High Performance Computing system. Approx. 2 bi
 
 Current the search technique is well developed. The data will be updated regularly. 
 
-The search results can be visualised here. Note the loading will take 30 seconds to minutes. The loading issue will be solved ... some time... [Round-trip impulsive Pork Chop Plots](http://www.traplan.xyz/data.html)
+The search results can be visualised here. Note the loading will take 30 seconds to minutes. The loading issue will be solved ... some time... [Round-trip impulsive Pork Chop Plots](https://www.traplanX.com//data.html)
 ![Impulsive](/images/project2-1.png "Impulsive")
 
 ![Low-thrust](/images/project2-2.png "Low-thrust")
